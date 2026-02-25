@@ -103,8 +103,3 @@ c=''.join(word.capitalize() for word in a.split('_'))
 print(c)
 #'''
 
-import mathematics
-print(add(9,5))
-print(substract(9,5))
-print(multiply(9,5))
-print(divide(9,5))
